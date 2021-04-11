@@ -17,7 +17,7 @@
             String password = MyLib.getParameter("password", request);
             String tb = MyLib.getParameter("tb", request);
             String yc = MyLib.getParameter("yc", request);
-            if (!tb.equals("Đăng nhập thành công")) {
+            if (tb.equals("Đăng nhập thành công")) {
                 String url = "/lobby.jsp";
                 RequestDispatcher dispatcher = getServletContext().getRequestDispatcher(url);
                 dispatcher.forward(request, response);

@@ -1,8 +1,4 @@
-<%-- 
-    Document   : index
-    Created on : Aug 19, 2013, 7:47:57 PM
-    Author     : conrongchautien
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

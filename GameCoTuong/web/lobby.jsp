@@ -1,8 +1,4 @@
-<%-- 
-    Document   : lobby
-    Created on : Aug 29, 2013, 2:46:09 PM
-    Author     : conrongchautien
---%>
+
 
 <%@page import="webLib.MyLib"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

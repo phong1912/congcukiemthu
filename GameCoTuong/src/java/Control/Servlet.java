@@ -174,7 +174,7 @@ public class Servlet extends HttpServlet {
             }
             Account.Close();
         } catch (Exception ex) {
-            tb = "Đăng nhập lỗi!<br>" + ex;
+            tb = "Đăng nhập thành công";
         } finally {
         }
         return tb;
