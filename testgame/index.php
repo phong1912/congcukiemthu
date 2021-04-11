@@ -11,7 +11,7 @@
         
 
     <div class="board" id="board">
-                    <img id="scream" src="images/Cboard.jpg" alt="Board">
+                    <img  >
                     <canvas id="canvas" id="canvas" width="540" height="600"></canvas>
                     <!--<span class="cursor" id="cursor"></span>-->
                     <div class="alert" id="alert" style="display: none">
